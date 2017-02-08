@@ -1,0 +1,9 @@
+[package]
+name = "slogs"
+version = "0.0.1"
+authors = ["koehr <n@koehr.in>"]
+description = "slogs through logs"
+
+[dependencies]
+clap = "2.20"
+rayon = "0.6"
